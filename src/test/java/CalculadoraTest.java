@@ -6,6 +6,7 @@ import br.com.tdd.Funcionario;
 
 public class CalculadoraTest {
 
+    // variáveis globais para uso nos casos de teste
     Double salarioLiquido;
     Double resultadoEsperado;
 
